@@ -1,0 +1,9 @@
+export const xContainer = document.querySelector(".x_container");
+export const yContainer = document.querySelector(".y_container");
+export const rContainer = document.querySelector(".r_container");
+export const xSelect = document.getElementById("x_select");
+export const yInput = document.getElementById("y_input");
+export const rCheckboxes = Array.from(document.querySelectorAll(".checkbox"));
+export const form = document.getElementById("form");
+export const table = document.getElementById("myTable");
+export const svgArea = document.getElementById("svgArea");
